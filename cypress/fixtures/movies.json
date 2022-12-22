@@ -1,0 +1,10 @@
+[
+    {
+        "name": "The test",
+        "synopsis": "Un programador inexperto trata de sobresalir en el salvaje mundo de IT…",
+        "coverImage": "https://images.theconversation.com/files/479421/original/file-20220816-10908-uvh62x.jpg?ixlib=rb-1.1.0&rect=4%2C5%2C994%2C497&q=45&auto=format&w=668&h=324&fit=crop",
+        "genre": "Drama",
+        "movieUrl": "https://www.youtube.com/watch?v=OeN4WGVE5QI&ab_channel=Mort",
+        "releaseDate": "2022-12-14"
+    }
+]
